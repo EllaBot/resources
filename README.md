@@ -10,6 +10,8 @@ Good resources to reference during this project
 
 [PG-ELLA](http://jmlr.org/proceedings/papers/v32/ammar14.pdf) - PG-ELLA Paper
 
+[PG-ELLA Presentation](http://www.seas.upenn.edu/~eeaton/papers/slides-Ruvolo2013ELLA.pdf) - Slides of the above paper.
+
 ----------
 
 ## Python ##
