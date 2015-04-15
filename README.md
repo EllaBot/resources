@@ -12,6 +12,8 @@ Good resources to reference during this project
 
 [PG-ELLA Presentation](http://www.seas.upenn.edu/~eeaton/papers/slides-Ruvolo2013ELLA.pdf) - Slides of the above paper.
 
+[ELLA Code](http://www.seas.upenn.edu/~eeaton/software/ELLAv1.0.zip) - ELLA Matlab code from original author
+
 ----------
 
 ## Python ##
