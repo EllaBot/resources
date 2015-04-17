@@ -10,7 +10,7 @@ Good resources to reference during this project
 
 [PG-ELLA](http://jmlr.org/proceedings/papers/v32/ammar14.pdf) - PG-ELLA Paper
 
-[ELLA Presentation](http://www.seas.upenn.edu/~eeaton/papers/slides-Ruvolo2013ELLA.pdf) - Slides of the above paper.
+[ELLA Presentation](http://www.seas.upenn.edu/~eeaton/papers/slides-Ruvolo2013ELLA.pdf) - Slides of the ELLA paper.
 
 [ELLA Code](http://www.seas.upenn.edu/~eeaton/software/ELLAv1.0.zip) - ELLA Matlab code from original author
 
