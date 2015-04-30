@@ -18,6 +18,10 @@ Good resources to reference during this project
 
 [ELLA Code](http://www.seas.upenn.edu/~eeaton/software/ELLAv1.0.zip) - ELLA Matlab code from original author
 
+[ELLA/PG-ELLA Presentation](https://drive.google.com/file/d/0B5jasigd7sbadGlUdS1NQTAtMEk/view?usp=sharing) - ELLA/PG-ELLA Presentation that Paul Ruvolo presented at the Next.ML conference
+
+[ELLA Python Code](https://github.com/paulruvolo/ELLA) - Python code for ELLA
+
 ----------
 
 ## Python ##
