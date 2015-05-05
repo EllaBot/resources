@@ -4,7 +4,7 @@ Good resources to reference during this project
 ----------
 
 ## Reinforcement Learning ##
-[Robotic Search & Rescure](http://www.princeton.edu/~lilee/reu_paper.pdf) - Turtlebot Robotic Search & Rescue paper.
+[Robotic Search & Rescue](http://www.princeton.edu/~lilee/reu_paper.pdf) - Turtlebot Robotic Search & Rescue paper.
 
 [Robotic Search & Rescue Slides](http://www.princeton.edu/~lilee/reu_presentation.pdf) - Slides of the above paper.
 
